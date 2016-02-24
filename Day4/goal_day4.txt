@@ -1,0 +1,5 @@
+day4.
+
+Write the voice command application to open the software installed like the chrom, and the sublime.
+Coding in Java, and comparing the difference between Java and C#
+http://www.ling.helsinki.fi/kit/2004s/ctl310gen/L7-Speech/JSAPI/Recognition.html
